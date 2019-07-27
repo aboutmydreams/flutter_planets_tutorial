@@ -23,7 +23,7 @@ List<Planet> planets = [
   const Planet(
       id: "1",
       name: "Earth",
-      location: "Milkyway Galaxy",
+      location: "搭建温暖小家的行政组",
       distance: "54.6m Km",
       gravity: "3.711 m/s ",
       description:
@@ -34,7 +34,7 @@ List<Planet> planets = [
   const Planet(
       id: "2",
       name: "Neptune",
-      location: "Milkyway Galaxy",
+      location: "韵律优雅细腻的运营组",
       distance: "54.6m Km",
       gravity: "3.711 m/s ",
       description:
@@ -45,7 +45,7 @@ List<Planet> planets = [
   const Planet(
       id: "3",
       name: "Moon",
-      location: "Milkyway Galaxy",
+      location: "思绪天马行空的产品组",
       distance: "54.6m Km",
       gravity: "3.711 m/s ",
       description:
@@ -55,7 +55,7 @@ List<Planet> planets = [
   const Planet(
       id: "4",
       name: "Mars",
-      location: "Milkyway Galaxy",
+      location: "描绘五彩斑斓的设计组",
       distance: "54.6m Km",
       gravity: "3.711 m/s ",
       description:
@@ -66,7 +66,7 @@ List<Planet> planets = [
   const Planet(
       id: "5",
       name: "Mercury",
-      location: "Milkyway Galaxy",
+      location: "融合技术风暴的研发组",
       distance: "54.6m Km",
       gravity: "3.711 m/s ",
       description:
